@@ -1,5 +1,3 @@
-# Volokhatiuk_Saliieva_asm_additional_tasks
-
 # Lab work <mark>3</mark>: <mark>Assembly Language Programming. Additional tasks.</mark>
 Authors (team): <mark>[Karyna Volokhatiuk](https://github.com/karyna-volokhatiuk), [Vira Saliieva](https://github.com/vsaliievaa).</mark><br>
 Variant func_1: <mark>A</mark><br>
